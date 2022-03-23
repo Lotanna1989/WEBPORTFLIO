@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    
+    
+}
+
+nav{
+    display: flex;
+    border-color: green;
+    background-color: green;
+   
+}
+
+.items {
+    display: flex;
+    margin: 5px;
+    padding-right: 10px;
+    list-style-type: none;
+    text-align: center;
+    justify-content: right;
+    width: 100%;
+    display: flex;
+    
+    
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between; 
+    padding: 30px;
+    margin: 30px;
+    
+   
+}
+
+.one {
+    width: 25%;
+}
+
+.three {
+    border-style: ridge;
+    border-color: black;
+    justify-items: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.inp {
+    height: 20px;
+    width: 65%;
+    font-size: 17px;
+    text-indent: 20px;
+}
+
